@@ -5411,8 +5411,9 @@ table>> can be used with built-in scalar or vector types as arguments and
 return a scalar or vector integer result.
 The argument type `gentype` refers to the following built-in types: `char`,
 `char__n__`, `uchar`, `uchar__n__`, `short`, `short__n__`, `ushort`,
-`ushort__n__`, `int`, `int__n__`, `uint`, `uint__n__`, `long`^l01^, `long__n__`,
-`ulong`, `ulong__n__`, `float`, `float__n__`, `double`^d04^, and `double__n__`.
+`ushort__n__`, `int`, `int__n__`, `uint`, `uint__n__`, `long`^l01^,
+`long__n__`, `ulong`, `ulong__n__`, `float`, `float__n__`, `double`^d04^, and
+`double__n__`.
 The argument type `igentype` refers to the built-in signed integer types
 i.e. `char`, `char__n__`, `short`, `short__n__`, `int`, `int__n__`, `long`
 and `long__n__`.
